@@ -1,13 +1,13 @@
 # DeepSee
 
-* Author: Danyang Song (Arthur)
+* Author: Danyang(Arthur) Song 
 * Contact: arthur_song@sfu.ca
 
 ******
 
 * This project is a simple VR game, based on Unity3D and Google Cardboard SDK.
-* Target deploy platform is on iOS devices (better on models after iPhone 6).
-* Part of assets coming from Academy of VR.
+* Target deployment platform is on iOS devices (better on iPhone 6 and later models).
+* Part of the assets come from Academy of VR.
 
 ## Preview
 
